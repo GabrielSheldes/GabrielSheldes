@@ -40,7 +40,9 @@
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSheldes&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSheldes&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+   <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=GabrielSheldes&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Sheldes github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSheldes&layout=compact&hide_border=true&hide=html,css,svg,c,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
+
   </a>
 </div>
 
