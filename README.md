@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Desenvolvimento de Sistemas na Etec Juscelino Kubitschek de Oliveira, atualmente tenho foco em PHP, C#, JavaScript e MySQL.
+<p align="center">Estudante de Desenvolvimento de Software Multplataforma na Fatec Diadema - Luigi Papaiz, atualmente tenho foco em Java, C#, JavaScript e MySQL.
   
 #
 
