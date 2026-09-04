@@ -38,11 +38,21 @@
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
   <br>
+  
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=yasminandrade8&show_icons=true&hide_border=true&bg_color=00002E&title_color=598EFF&icon_color=FFFF00&text_color=598EFF%22 width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasminandrade8&layout=compact&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF%22 width="40%" />
+  
+</div>
+
+
+</div>
+
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/GabrielSheldes/GabrielSheldes/output/github-snake-dark.svg" width="100%" />
 </p>
   </a>
-</div>
 
 
