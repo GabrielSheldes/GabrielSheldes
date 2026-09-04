@@ -40,8 +40,8 @@
   <br>
   
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=yasminandrade8&show_icons=true&hide_border=true&bg_color=00002E&title_color=598EFF&icon_color=FFFF00&text_color=598EFF%22 width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasminandrade8&layout=compact&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF%22 width="40%" />
+<img src="https://github-stats-extended.vercel.app/api?username=GabrielSheldes&show_icons=true&hide_border=true&bg_color=00002E&title_color=598EFF&icon_color=FFFF00&text_color=598EFF%22 width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielSheldes&layout=compact&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF%22 width="40%" />
   
 </div>
 
