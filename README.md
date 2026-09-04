@@ -38,15 +38,18 @@
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
   <br>
-  
+</div>
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=GabrielSheldes&show_icons=true&hide_border=true&bg_color=00002E&title_color=598EFF&icon_color=FFFF00&text_color=598EFF%22 width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielSheldes&layout=compact&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF%22 width="40%" />
-  
+ 
+  <img src="https://github-stats-extended.vercel.app/api?username=GabrielSheldes&show_icons=true&hide_border=true&bg_color=040014&title_color=7809DE&icon_color=7809DE&text_color=598EFF" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielSheldes&layout=compact&hide_border=true&bg_color=040014&title_color=7809DE&text_color=598EFF" width="40%" />
+ 
+<br>
+ 
 </div>
 
 
-</div>
+
 
 
 
