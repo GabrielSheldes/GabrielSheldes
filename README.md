@@ -39,9 +39,9 @@
   <h3>GitHub Stats</h3>
   <br>
 
- <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=GabrielSheldes&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Sheldes github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSheldes&layout=compact&hide_border=true&hide=html,css,svg,c,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/GabrielSheldes/GabrielSheldes/output/github-snake-dark.svg" width="100%" />
+</p>
   </a>
 </div>
 
